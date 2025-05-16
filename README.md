@@ -69,9 +69,8 @@ Voice output examples:
 
 ## 👨‍💻 Contributors
 
-- Aaradhya Chaudhari (05)  
-- Parshwa Dedhia (08)  
-- Kajal Jagtap (14)  
+- Parshwa Dedhia  
+- Kajal Jagtap 
 
 Supervised by: *Assistant Prof. Seema Bhuravane*
 
