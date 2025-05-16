@@ -22,7 +22,7 @@ In modern traffic systems, visual signal detection alone may not be sufficient â
 
 ## ðŸ“Œ Project Goals
 
-- Improve traffic safety with both visual and auditory signal detection
+- Enhance traffic safety through both visual and voice signal recognition
 - Assist autonomous systems and visually impaired users
 - Create an intelligent, adaptable traffic light identifier for real-world deployment
 
